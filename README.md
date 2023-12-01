@@ -34,7 +34,7 @@ We strive to achieve top efficiency by leveraging multiple optimization techniqu
 
 <details>
 <summary>
-Automatic kernel fusion 💥
+## Automatic kernel fusion 💥
 </summary>
 <br />
 
